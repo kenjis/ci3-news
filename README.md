@@ -2,6 +2,8 @@
 
 See <https://codeigniter.com/userguide3/tutorial/index.html>.
 
+If you want CodeIgniter4 version, see <https://github.com/kenjis/ci3-to-4-news>.
+
 ## Folder Structure
 
 ```
