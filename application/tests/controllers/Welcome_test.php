@@ -8,6 +8,9 @@
  * @link       https://github.com/kenjis/ci-phpunit-test
  */
 
+/**
+ * @group controller
+ */
 class Welcome_test extends TestCase
 {
 	public function test_index()
