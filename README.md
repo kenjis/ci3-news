@@ -43,10 +43,16 @@ $ php public/index.php dbfixture/migrate
 $ php public/index.php dbfixture/seed
 ```
 
-### Run PHP built-in server
+### Run PHP built-in Server
 
 ```
 $ bin/server.sh
+```
+
+### Run PHPUnit Tests
+
+```
+$ composer test
 ```
 
 ## Related Projects for CodeIgniter 3.x

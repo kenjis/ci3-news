@@ -9,5 +9,9 @@
 		"mikey179/vfsstream": "1.1.*",
 		"kenjis/ci-phpunit-test": "2.x-dev",
 		"phpunit/phpunit": "^9.2"
+	},
+	"scripts": {
+		"test": "phpunit -c application/tests/ --no-coverage",
+		"coverage": "phpunit -c application/tests/"
 	}
 }
