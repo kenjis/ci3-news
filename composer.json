@@ -8,7 +8,7 @@
 	"require-dev": {
 		"mikey179/vfsstream": "1.1.*",
 		"kenjis/ci-phpunit-test": "2.x-dev",
-		"phpunit/phpunit": "^9.2"
+		"phpunit/phpunit": "^8.5"
 	},
 	"scripts": {
 		"test": "phpunit -c application/tests/ --no-coverage",
